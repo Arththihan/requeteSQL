@@ -1,4 +1,4 @@
-#TP5_QT_Requete_SQL
+# TP5_QT_Requete_SQL
 
 ##Projet QT AVEC MYSQL :
 Ce projet est une application QT qui permet de gérer et de visualiser des informations sur des joueurs de football, telles que leur nom, club et leur note.
