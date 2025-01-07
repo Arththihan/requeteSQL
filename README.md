@@ -1,3 +1,6 @@
+                          #TP5 requete sql
+
+
 Projet QT AVEC MYSQL :
 Ce projet est une application QT qui permet de gérer et de visualiser des informations sur des joueurs de football, telles que leur nom, club et leur note.
 L'application se connecte à une BDD mysql pour afficher ces informations dans une interface graphique et permet de mettre à jour les notes des joueurs en temps réel.
