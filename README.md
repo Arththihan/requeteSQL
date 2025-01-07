@@ -17,3 +17,6 @@ L'application se connecte à une BDD mysql pour afficher ces informations dans u
 
    ## Installation :
    Cloner ce dépot (https://github.com/Arththihan/requeteSQL.git)
+
+   ## Aperçu :
+   Vidéo de présentatrion :[Uploading Capture vidéo du 2025-01-07 15-07-58.webm…]()
